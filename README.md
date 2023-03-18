@@ -3,7 +3,7 @@
 - 🔭 Estou no segundo ano do meu curso técnico de Desenvolvimento de Sistemas no Instituto Federal
 - 🌱 No momento estou aprendendo C, HTML, CSS e JavaScript
 - 💬 Contate-me no email: alanisestrela30@gmail.com
-
+- 📎Linguagens que estou aprendendo: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alanis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alanis-C" height="40" width="40" src="https://img.icons8.com/color/256/c-programming.png">
