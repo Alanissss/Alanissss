@@ -3,7 +3,7 @@
 - 🔭 Estou no segundo ano do meu curso técnico de Desenvolvimento de Sistemas no Instituto Federal
 - 🌱 No momento estou aprendendo C, HTML, CSS e JavaScript
 - 💬 Contate-me no email: alanisestrela30@gmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alanis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
