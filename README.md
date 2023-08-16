@@ -3,7 +3,6 @@
 
 Olá!!! Eu sou Alanis Estrela
 <li> 🔭 Estou no segundo ano do meu curso técnico de Desenvolvimento de Sistemas no Instituto Federal</li>
-<li> 🌱 No momento estou aprendendo C, HTML, CSS e JavaScript</li>
 <li> 💬 Contate-me no email: alanisestrela30@gmail.com</li>
 <li>📎Linguagens que estou aprendendo: 
 
