@@ -25,6 +25,7 @@ Olá!!! Eu sou Alanis Estrela
 
 
 <div> 
+ <img align="center" alt="Alanis-LINKEDIN" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
  <h1> Linkedin
  	<a href="https://www.linkedin.com/in/alanis-estrela-7351b6258/" target="_blank">
   </a>
