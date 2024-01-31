@@ -24,12 +24,10 @@ Olá!!! Eu sou Alanis Estrela
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanissss&layout=compact&hide_border=true&title_color=781ece&text_color=1ece78&bg_color=0d1117"/>
 
 
-<div> 
- <img align="center" alt="Alanis-LINKEDIN" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
- <h1> Linkedin
- 	<a href="https://www.linkedin.com/in/alanis-estrela-7351b6258/" target="_blank">
-  </a>
- </h1>
+<div>
+    <a href="https://www.linkedin.com/in/alanis-estrela-7351b6258/" target="_blank">
+        <img align="center" alt="Alanis-LINKEDIN" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    </a>
 </div>
 
  
