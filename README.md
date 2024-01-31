@@ -11,6 +11,8 @@ Olá!!! Eu sou Alanis Estrela
   <img align="center" alt="Alanis-C" height="40" width="40" src="https://img.icons8.com/color/256/c-programming.png">
   <img align="center" alt="Alanis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alanis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          
   <img align="right" alt="Alanis-pic" height="150" style="border-radius:50px;" 
   src="https://img.icons8.com/color/256/best-terraria.png">
   </div>
