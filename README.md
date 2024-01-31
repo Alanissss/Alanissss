@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:781ece,100:1ece78&height=210&section=header&text=Alanis%20Estrela&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=%20%20&descAlignY=50">
 
 Olá!!! Eu sou Alanis Estrela
-<li> 🔭 Estou no segundo ano do meu curso técnico de Desenvolvimento de Sistemas no Instituto Federal</li>
+<li> 🔭 Estou no terceiro ano do meu curso técnico de Desenvolvimento de Sistemas no Instituto Federal</li>
 <li> 💬 Contate-me no email: alanisestrela30@gmail.com</li>
 <li>📎Linguagens que estou aprendendo: 
 
