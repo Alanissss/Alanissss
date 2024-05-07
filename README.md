@@ -4,19 +4,17 @@
 Olá!!! Eu sou Alanis Estrela
 <li> 🔭 Estou no terceiro ano do meu curso técnico de Desenvolvimento de Sistemas no Instituto Federal</li>
 <li> 💬 Contate-me no email: alanisestrela30@gmail.com</li>
+          <hr>
 <li>📎Linguagens que mais me indentifico: 
-
  <div style="display: inline_block"><br>
   <img align="center" alt="Alanis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alanis-C" height="40" width="40" src="https://img.icons8.com/color/256/c-programming.png">
   <img align="center" alt="Alanis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alanis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-          <hr>
+
   <img align="right" alt="Alanis-pic" height="150" style="border-radius:50px;" 
   src="https://img.icons8.com/color/256/best-terraria.png">
   </div>
-
-
 
 
  
