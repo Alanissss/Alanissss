@@ -1,4 +1,8 @@
-
+styles {
+[data-target="animated-image.originalImage"] {
+    width: 100%;
+}
+}
  ##  Hi, i'm Alanis Estrela  <img width=100% src="https://i.pinimg.com/originals/7a/f3/81/7af3814bd5780fee26c164b0f11db882.gif" height="150px" width="0%">
 
 
