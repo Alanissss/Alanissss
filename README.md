@@ -1,9 +1,5 @@
-styles {
-[data-target="animated-image.originalImage"] {
-    width: 100%;
-}
-}
- ##  Hi, i'm Alanis Estrela  <img width=100% src="https://i.pinimg.com/originals/7a/f3/81/7af3814bd5780fee26c164b0f11db882.gif" height="150px" width="0%">
+
+ ##  Hi, i'm Alanis Estrela <img src="https://media.giphy.com/media/QXhSr6NDR4F5t69GL8/giphy.gif" height="80px" width="80px">
 
 
 - :mortar_board: Systems Development Technician at [INSTITUTO FEDERAL DO RIO GRANDE DO SUL](https://ifrs.edu.br/canoas/).
