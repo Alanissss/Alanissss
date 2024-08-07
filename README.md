@@ -1,5 +1,5 @@
 
- ##  Hi, i'm Alanis Estrela <img src="https://i.pinimg.com/originals/72/8a/02/728a020d5290efa08d853c061307eb31.gif" height="80px" width="80px">
+ ##  Hi, i'm Alanis Estrela <img src="https://s2.ezgif.com/tmp/ezgif-2-dce194a4b6.gif" height="80px" width="80px">
 
 
 - :mortar_board: Systems Development Technician at [INSTITUTO FEDERAL DO RIO GRANDE DO SUL](https://ifrs.edu.br/canoas/).
