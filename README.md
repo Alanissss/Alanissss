@@ -3,7 +3,6 @@
 
 
 - :mortar_board: Systems Development Technician at [INSTITUTO FEDERAL DO RIO GRANDE DO SUL](https://ifrs.edu.br/canoas/).
-- :artist: Learning UX & UI at [Alura](https://www.alura.com.br/).
 - :four_leaf_clover: Brazilian.
 - :computer: Javascript, Java, C, PhP, MySQL.
 - 🍝 Listening to music, cooking, and coding.
