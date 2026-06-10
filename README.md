@@ -5,15 +5,13 @@
 
  ##  Hi, i'm Alanis Estrela!
  
-<br/> 
-<h2 align="center"> <img src="https://i.pinimg.com/736x/67/0c/e4/670ce499bda2e8ced446aea30bc76340.jpg" width="25"/> About  me</h2>
 <p>
   Graduated as a Systems Development Technician, I studied for 4 years, acquiring knowledge in Software Engineering, Databases, Systems Architecture, Networks and Services, and Object-Oriented Programming. I am interested in areas related to data, cybersecurity, and infrastructure.
 </p>
 <br/> 
 
 <br>
-<h2 align="center"> <img src="https://i.pinimg.com/736x/77/96/41/779641eb8455c8c86076fb985e7dc4d3.jpg" width="25"/> Technologies</h2>
+<h2 align="center"> <img src="https://i.pinimg.com/736x/67/0c/e4/670ce499bda2e8ced446aea30bc76340.jpg" width="25"/> Technologies</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
