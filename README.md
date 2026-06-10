@@ -8,7 +8,6 @@
 <p>
   Graduated as a Systems Development Technician, I studied for 4 years, acquiring knowledge in Software Engineering, Databases, Systems Architecture, Networks and Services, and Object-Oriented Programming. I am interested in areas related to data, cybersecurity, and infrastructure.
 </p>
-<br/> 
 
 <br>
 <h2 align="center"> <img src="https://i.pinimg.com/736x/67/0c/e4/670ce499bda2e8ced446aea30bc76340.jpg" width="25"/> Technologies</h2>
